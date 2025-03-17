@@ -5,4 +5,6 @@ Console.WriteLine("Novo");
 
 //zuzul
 
+//jure komentar
+
 // Nino komentar
